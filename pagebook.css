@@ -1,0 +1,74 @@
+body {
+  background-image: url('https://i0.wp.com/www.tusktravel.com/blog/wp-content/uploads/2021/07/Gwalior_Fort_-Popular-fort-in-Madhya_Pradesh.jpg?fit=1024%2C691&ssl=1');
+  background-size: cover;
+  margin: 0;
+
+}
+
+div.mp{
+  background-color: #0a5b9d;
+  opacity:0.6;
+  margin-left: 125px;
+  background: rgba(133, 37, 13, 0.5);
+}
+
+div.bookingform {
+  background-image: url('data:image/jpeg;base64,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');
+  
+  background-size: cover;
+  font-family: cursive;
+  color: white;
+  font-size: 20px;
+
+  border: 8px solid black;
+  width: 550px;
+  height: 712px;
+  opacity: 0.9;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+
+
+}
+
+
+input {
+  border: 0;
+  outline: 0;
+  background: transparent;
+  border-bottom: 3px solid white;
+}
+
+::placeholder {
+  color: rgb(38, 197, 104);
+  font-size: 15px;
+  opacity: 1;
+  /* Firefox */
+}
+
+input[type=submit] {
+  background: #0a5b9d;
+  height: 50px;
+  width: 100px;
+  color: rgb(228, 226, 226);
+  border: 1px solid #eee;
+  font: bold 19px arial, sans-serif;
+  border-radius: 20px;
+
+
+}
+input[type=date] {
+
+  color: rgb(38, 197, 104);
+
+}
+input[type=submit]:hover {
+  background: #159155;
+  color: #fff;
+  border: 1px solid #eee;
+  border-radius: 20px;
+
+}
+
+
+
