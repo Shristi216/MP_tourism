@@ -1,0 +1,19 @@
+body{
+    position: relative;
+    margin: 0;
+}
+.left{
+    margin-top: 40px;
+    height: 500px;
+    width: 440px;
+    background-color: rgb(222, 185, 136);
+    font-size: large;
+}
+.right{
+    position: absolute;
+    background-color: rgb(237, 162, 162);
+    height: 500px;
+    width: 1000px;
+    right: 20px;
+    top: 295px;
+}
